@@ -1,0 +1,701 @@
+[ 
+  {
+    "userAgent": "lataamo-android/116 Dalvik/2.1.0 (Linux; U; Android 4.2.2; SM-G350 Build/JDQ39)",
+    "lataamoVersion": "1.7.2.3",
+    "minSdkVersion": "17",                               
+    "targetSdkVersion": "24",                                                                       
+    "comment": "android:versionCode='116', android:versionName='1.7.2.3', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='24'"                                        
+  },
+  {                                                                                                 
+    "userAgent": "lataamo-android/155 Dalvik/2.1.0 (Linux; U; Android 4.3; GT-I9300 Build/JSS15J)",                                                                                                 
+    "lataamoVersion": "2.0.1.13",
+    "minSdkVersion": "17",                                                                          
+    "targetSdkVersion": "26",
+    "comment": "android:versionCode='155', android:versionName='2.0.1.13', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='26'"
+  },                                                                                              {
+    "userAgent": "lataamo-android/164 Dalvik/2.1.0 (Linux; U; Android 4.4.2; SM-G900F Build/KOT49H)",
+    "lataamoVersion": "2.0.1.22",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "27",
+    "comment": "android:versionCode='164', android:versionName='2.0.1.22', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='27'"
+  },
+  {
+    "userAgent": "lataamo-android/177 Dalvik/2.1.0 (Linux; U; Android 5.0; SM-N9005 Build/LRX21V)",
+    "lataamoVersion": "2.1.2.3",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "27",
+    "comment": "android:versionCode='177', android:versionName='2.1.2.3', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='27'"
+  },
+  {
+    "userAgent": "lataamo-android/203 Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 7 Build/LMY48T)",
+    "lataamoVersion": "2.2.4.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='203', android:versionName='2.2.4.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/206 Dalvik/2.1.0 (Linux; U; Android 6.0; SM-A520F Build/MMB29M)",
+    "lataamoVersion": "2.2.6.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='206', android:versionName='2.2.6.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/210 Dalvik/2.1.0 (Linux; U; Android 7.0; Pixel 2 Build/NMF26F)",
+    "lataamoVersion": "2.2.8.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='210', android:versionName='2.2.8.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/212 Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-G960F Build/OPM1.171019.011)",
+    "lataamoVersion": "2.2.9.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='212', android:versionName='2.2.9.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/216 Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G970F Build/PQ3A.190801.002)",
+    "lataamoVersion": "2.3.1.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='216', android:versionName='2.3.1.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/225 Dalvik/2.1.0 (Linux; U; Android 8.1.0; Pixel 4 Build/QQ3A.200805.001)",
+    "lataamoVersion": "2.3.1.9",
+    "minSdkVersion": "19",
+    "targetSdkVersion": "29",
+    "comment": "android:versionCode='225', android:versionName='2.3.1.9', package='fi.sanomamagazines.lataamo', minSdkVersion='19', targetSdkVersion='29'"
+  },
+  {
+    "userAgent": "lataamo-android/229 Dalvik/2.1.0 (Linux; U; Android 9; SM-G980F Build/RQ3A.211001.001)",
+    "lataamoVersion": "2.3.1.13",
+    "minSdkVersion": "19",
+    "targetSdkVersion": "29",
+    "comment": "android:versionCode='229', android:versionName='2.3.1.13', package='fi.sanomamagazines.lataamo', minSdkVersion='19', targetSdkVersion='29'"
+  },
+  {
+    "userAgent": "lataamo-android/241 Dalvik/2.1.0 (Linux; U; Android 10; SM-G991B Build/SP1A.210812.016)",
+    "lataamoVersion": "2.4.0",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "30",
+    "comment": "android:versionCode='241', android:versionName='2.4.0', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='30'"
+  },
+  {
+    "userAgent": "lataamo-android/243 Dalvik/2.1.0 (Linux; U; Android 11; Pixel 6 Build/TP1A.221005.002)",
+    "lataamoVersion": "2.4.1",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "31",
+    "comment": "android:versionCode='243', android:versionName='2.4.1', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='31'"
+  },
+  {
+    "userAgent": "lataamo-android/248 Dalvik/2.1.0 (Linux; U; Android 12; SM-S908B Build/UP1A.231005.007)",
+    "lataamoVersion": "2.4.6",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "31",
+    "comment": "android:versionCode='248', android:versionName='2.4.6', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='31'"
+  },
+  {
+    "userAgent": "lataamo-android/253 Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/JDQ39)",
+    "lataamoVersion": "2.4.11",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "31",
+    "comment": "android:versionCode='253', android:versionName='2.4.11', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='31'"
+  },
+  {
+    "userAgent": "lataamo-android/254 Dalvik/2.1.0 (Linux; U; Android 14; SM-G350 Build/JSS15J)",
+    "lataamoVersion": "2.4.12",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='254', android:versionName='2.4.12', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/255 Dalvik/2.1.0 (Linux; U; Android 4.2.2; GT-I9300 Build/KOT49H)",
+    "lataamoVersion": "2.4.13",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='255', android:versionName='2.4.13', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/257 Dalvik/2.1.0 (Linux; U; Android 4.3; SM-G900F Build/LRX21V)",
+    "lataamoVersion": "2.4.15",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='257', android:versionName='2.4.15', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/258 Dalvik/2.1.0 (Linux; U; Android 4.4.2; SM-N9005 Build/LMY48T)",
+    "lataamoVersion": "2.4.16",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='258', android:versionName='2.4.16', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/260 Dalvik/2.1.0 (Linux; U; Android 5.0; Nexus 7 Build/MMB29M)",
+    "lataamoVersion": "2.4.18",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='260', android:versionName='2.4.18', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/263 Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-A520F Build/NMF26F)",
+    "lataamoVersion": "2.4.20",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "34",
+    "comment": "android:versionCode='263', android:versionName='2.4.20', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='34'"
+  },
+  {
+    "userAgent": "lataamo-android/116 Dalvik/2.1.0 (Linux; U; Android 6.0; Pixel 2 Build/OPM1.171019.011)",
+    "lataamoVersion": "1.7.2.3",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "24",
+    "comment": "android:versionCode='116', android:versionName='1.7.2.3', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='24'"
+  },
+  {
+    "userAgent": "lataamo-android/155 Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G960F Build/PQ3A.190801.002)",
+    "lataamoVersion": "2.0.1.13",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "26",
+    "comment": "android:versionCode='155', android:versionName='2.0.1.13', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='26'"
+  },
+  {
+    "userAgent": "lataamo-android/164 Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-G970F Build/QQ3A.200805.001)",
+    "lataamoVersion": "2.0.1.22",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "27",
+    "comment": "android:versionCode='164', android:versionName='2.0.1.22', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='27'"
+  },
+  {
+    "userAgent": "lataamo-android/177 Dalvik/2.1.0 (Linux; U; Android 8.0.0; Pixel 4 Build/RQ3A.211001.001)",
+    "lataamoVersion": "2.1.2.3",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "27",
+    "comment": "android:versionCode='177', android:versionName='2.1.2.3', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='27'"
+  },
+  {
+    "userAgent": "lataamo-android/203 Dalvik/2.1.0 (Linux; U; Android 8.1.0; SM-G980F Build/SP1A.210812.016)",
+    "lataamoVersion": "2.2.4.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='203', android:versionName='2.2.4.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/206 Dalvik/2.1.0 (Linux; U; Android 9; SM-G991B Build/TP1A.221005.002)",
+    "lataamoVersion": "2.2.6.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='206', android:versionName='2.2.6.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/210 Dalvik/2.1.0 (Linux; U; Android 10; Pixel 6 Build/UP1A.231005.007)",
+    "lataamoVersion": "2.2.8.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='210', android:versionName='2.2.8.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/212 Dalvik/2.1.0 (Linux; U; Android 11; SM-S908B Build/JDQ39)",
+    "lataamoVersion": "2.2.9.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='212', android:versionName='2.2.9.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/216 Dalvik/2.1.0 (Linux; U; Android 12; Pixel 7 Build/JSS15J)",
+    "lataamoVersion": "2.3.1.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='216', android:versionName='2.3.1.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/225 Dalvik/2.1.0 (Linux; U; Android 13; SM-G350 Build/KOT49H)",
+    "lataamoVersion": "2.3.1.9",
+    "minSdkVersion": "19",
+    "targetSdkVersion": "29",
+    "comment": "android:versionCode='225', android:versionName='2.3.1.9', package='fi.sanomamagazines.lataamo', minSdkVersion='19', targetSdkVersion='29'"
+  },
+  {
+    "userAgent": "lataamo-android/229 Dalvik/2.1.0 (Linux; U; Android 14; GT-I9300 Build/LRX21V)",
+    "lataamoVersion": "2.3.1.13",
+    "minSdkVersion": "19",
+    "targetSdkVersion": "29",
+    "comment": "android:versionCode='229', android:versionName='2.3.1.13', package='fi.sanomamagazines.lataamo', minSdkVersion='19', targetSdkVersion='29'"
+  },
+  {
+    "userAgent": "lataamo-android/241 Dalvik/2.1.0 (Linux; U; Android 4.2.2; SM-G900F Build/LMY48T)",
+    "lataamoVersion": "2.4.0",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "30",
+    "comment": "android:versionCode='241', android:versionName='2.4.0', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='30'"
+  },
+  {
+    "userAgent": "lataamo-android/243 Dalvik/2.1.0 (Linux; U; Android 4.3; SM-N9005 Build/MMB29M)",
+    "lataamoVersion": "2.4.1",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "31",
+    "comment": "android:versionCode='243', android:versionName='2.4.1', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='31'"
+  },
+  {
+    "userAgent": "lataamo-android/248 Dalvik/2.1.0 (Linux; U; Android 4.4.2; Nexus 7 Build/NMF26F)",
+    "lataamoVersion": "2.4.6",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "31",
+    "comment": "android:versionCode='248', android:versionName='2.4.6', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='31'"
+  },
+  {
+    "userAgent": "lataamo-android/253 Dalvik/2.1.0 (Linux; U; Android 5.0; SM-A520F Build/OPM1.171019.011)",
+    "lataamoVersion": "2.4.11",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "31",
+    "comment": "android:versionCode='253', android:versionName='2.4.11', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='31'"
+  },
+  {
+    "userAgent": "lataamo-android/254 Dalvik/2.1.0 (Linux; U; Android 5.1.1; Pixel 2 Build/PQ3A.190801.002)",
+    "lataamoVersion": "2.4.12",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='254', android:versionName='2.4.12', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/255 Dalvik/2.1.0 (Linux; U; Android 6.0; SM-G960F Build/QQ3A.200805.001)",
+    "lataamoVersion": "2.4.13",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='255', android:versionName='2.4.13', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/257 Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G970F Build/RQ3A.211001.001)",
+    "lataamoVersion": "2.4.15",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='257', android:versionName='2.4.15', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/258 Dalvik/2.1.0 (Linux; U; Android 7.1.1; Pixel 4 Build/SP1A.210812.016)",
+    "lataamoVersion": "2.4.16",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='258', android:versionName='2.4.16', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/260 Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G980F Build/TP1A.221005.002)",
+    "lataamoVersion": "2.4.18",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='260', android:versionName='2.4.18', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/263 Dalvik/2.1.0 (Linux; U; Android 8.1.0; SM-G991B Build/UP1A.231005.007)",
+    "lataamoVersion": "2.4.20",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "34",
+    "comment": "android:versionCode='263', android:versionName='2.4.20', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='34'"
+  },
+  {
+    "userAgent": "lataamo-android/116 Dalvik/2.1.0 (Linux; U; Android 9; Pixel 6 Build/JDQ39)",
+    "lataamoVersion": "1.7.2.3",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "24",
+    "comment": "android:versionCode='116', android:versionName='1.7.2.3', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='24'"
+  },
+  {
+    "userAgent": "lataamo-android/155 Dalvik/2.1.0 (Linux; U; Android 10; SM-S908B Build/JSS15J)",
+    "lataamoVersion": "2.0.1.13",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "26",
+    "comment": "android:versionCode='155', android:versionName='2.0.1.13', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='26'"
+  },
+  {
+    "userAgent": "lataamo-android/164 Dalvik/2.1.0 (Linux; U; Android 11; Pixel 7 Build/KOT49H)",
+    "lataamoVersion": "2.0.1.22",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "27",
+    "comment": "android:versionCode='164', android:versionName='2.0.1.22', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='27'"
+  },
+  {
+    "userAgent": "lataamo-android/177 Dalvik/2.1.0 (Linux; U; Android 12; SM-G350 Build/LRX21V)",
+    "lataamoVersion": "2.1.2.3",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "27",
+    "comment": "android:versionCode='177', android:versionName='2.1.2.3', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='27'"
+  },
+  {
+    "userAgent": "lataamo-android/203 Dalvik/2.1.0 (Linux; U; Android 13; GT-I9300 Build/LMY48T)",
+    "lataamoVersion": "2.2.4.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='203', android:versionName='2.2.4.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/206 Dalvik/2.1.0 (Linux; U; Android 14; SM-G900F Build/MMB29M)",
+    "lataamoVersion": "2.2.6.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='206', android:versionName='2.2.6.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/210 Dalvik/2.1.0 (Linux; U; Android 4.2.2; SM-N9005 Build/NMF26F)",
+    "lataamoVersion": "2.2.8.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='210', android:versionName='2.2.8.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/212 Dalvik/2.1.0 (Linux; U; Android 4.3; Nexus 7 Build/OPM1.171019.011)",
+    "lataamoVersion": "2.2.9.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='212', android:versionName='2.2.9.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/216 Dalvik/2.1.0 (Linux; U; Android 4.4.2; SM-A520F Build/PQ3A.190801.002)",
+    "lataamoVersion": "2.3.1.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='216', android:versionName='2.3.1.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/225 Dalvik/2.1.0 (Linux; U; Android 5.0; Pixel 2 Build/QQ3A.200805.001)",
+    "lataamoVersion": "2.3.1.9",
+    "minSdkVersion": "19",
+    "targetSdkVersion": "29",
+    "comment": "android:versionCode='225', android:versionName='2.3.1.9', package='fi.sanomamagazines.lataamo', minSdkVersion='19', targetSdkVersion='29'"
+  },
+  {
+    "userAgent": "lataamo-android/229 Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960F Build/RQ3A.211001.001)",
+    "lataamoVersion": "2.3.1.13",
+    "minSdkVersion": "19",
+    "targetSdkVersion": "29",
+    "comment": "android:versionCode='229', android:versionName='2.3.1.13', package='fi.sanomamagazines.lataamo', minSdkVersion='19', targetSdkVersion='29'"
+  },
+  {
+    "userAgent": "lataamo-android/241 Dalvik/2.1.0 (Linux; U; Android 6.0; SM-G970F Build/SP1A.210812.016)",
+    "lataamoVersion": "2.4.0",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "30",
+    "comment": "android:versionCode='241', android:versionName='2.4.0', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='30'"
+  },
+  {
+    "userAgent": "lataamo-android/243 Dalvik/2.1.0 (Linux; U; Android 7.0; Pixel 4 Build/TP1A.221005.002)",
+    "lataamoVersion": "2.4.1",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "31",
+    "comment": "android:versionCode='243', android:versionName='2.4.1', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='31'"
+  },
+  {
+    "userAgent": "lataamo-android/248 Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-G980F Build/UP1A.231005.007)",
+    "lataamoVersion": "2.4.6",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "31",
+    "comment": "android:versionCode='248', android:versionName='2.4.6', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='31'"
+  },
+  {
+    "userAgent": "lataamo-android/253 Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G991B Build/JDQ39)",
+    "lataamoVersion": "2.4.11",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "31",
+    "comment": "android:versionCode='253', android:versionName='2.4.11', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='31'"
+  },
+  {
+    "userAgent": "lataamo-android/254 Dalvik/2.1.0 (Linux; U; Android 8.1.0; Pixel 6 Build/JSS15J)",
+    "lataamoVersion": "2.4.12",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='254', android:versionName='2.4.12', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/255 Dalvik/2.1.0 (Linux; U; Android 9; SM-S908B Build/KOT49H)",
+    "lataamoVersion": "2.4.13",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='255', android:versionName='2.4.13', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/257 Dalvik/2.1.0 (Linux; U; Android 10; Pixel 7 Build/LRX21V)",
+    "lataamoVersion": "2.4.15",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='257', android:versionName='2.4.15', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/258 Dalvik/2.1.0 (Linux; U; Android 11; SM-G350 Build/LMY48T)",
+    "lataamoVersion": "2.4.16",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='258', android:versionName='2.4.16', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/260 Dalvik/2.1.0 (Linux; U; Android 12; GT-I9300 Build/MMB29M)",
+    "lataamoVersion": "2.4.18",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='260', android:versionName='2.4.18', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/263 Dalvik/2.1.0 (Linux; U; Android 13; SM-G900F Build/NMF26F)",
+    "lataamoVersion": "2.4.20",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "34",
+    "comment": "android:versionCode='263', android:versionName='2.4.20', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='34'"
+  },
+  {
+    "userAgent": "lataamo-android/116 Dalvik/2.1.0 (Linux; U; Android 14; SM-N9005 Build/OPM1.171019.011)",
+    "lataamoVersion": "1.7.2.3",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "24",
+    "comment": "android:versionCode='116', android:versionName='1.7.2.3', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='24'"
+  },
+  {
+    "userAgent": "lataamo-android/155 Dalvik/2.1.0 (Linux; U; Android 4.2.2; Nexus 7 Build/PQ3A.190801.002)",
+    "lataamoVersion": "2.0.1.13",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "26",
+    "comment": "android:versionCode='155', android:versionName='2.0.1.13', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='26'"
+  },
+  {
+    "userAgent": "lataamo-android/164 Dalvik/2.1.0 (Linux; U; Android 4.3; SM-A520F Build/QQ3A.200805.001)",
+    "lataamoVersion": "2.0.1.22",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "27",
+    "comment": "android:versionCode='164', android:versionName='2.0.1.22', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='27'"
+  },
+  {
+    "userAgent": "lataamo-android/177 Dalvik/2.1.0 (Linux; U; Android 4.4.2; Pixel 2 Build/RQ3A.211001.001)",
+    "lataamoVersion": "2.1.2.3",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "27",
+    "comment": "android:versionCode='177', android:versionName='2.1.2.3', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='27'"
+  },
+  {
+    "userAgent": "lataamo-android/203 Dalvik/2.1.0 (Linux; U; Android 5.0; SM-G960F Build/SP1A.210812.016)",
+    "lataamoVersion": "2.2.4.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='203', android:versionName='2.2.4.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/206 Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G970F Build/TP1A.221005.002)",
+    "lataamoVersion": "2.2.6.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='206', android:versionName='2.2.6.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/210 Dalvik/2.1.0 (Linux; U; Android 6.0; Pixel 4 Build/UP1A.231005.007)",
+    "lataamoVersion": "2.2.8.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='210', android:versionName='2.2.8.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/212 Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G980F Build/JDQ39)",
+    "lataamoVersion": "2.2.9.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='212', android:versionName='2.2.9.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/216 Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-G991B Build/JSS15J)",
+    "lataamoVersion": "2.3.1.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='216', android:versionName='2.3.1.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/225 Dalvik/2.1.0 (Linux; U; Android 8.0.0; Pixel 6 Build/KOT49H)",
+    "lataamoVersion": "2.3.1.9",
+    "minSdkVersion": "19",
+    "targetSdkVersion": "29",
+    "comment": "android:versionCode='225', android:versionName='2.3.1.9', package='fi.sanomamagazines.lataamo', minSdkVersion='19', targetSdkVersion='29'"
+  },
+  {
+    "userAgent": "lataamo-android/229 Dalvik/2.1.0 (Linux; U; Android 8.1.0; SM-S908B Build/LRX21V)",
+    "lataamoVersion": "2.3.1.13",
+    "minSdkVersion": "19",
+    "targetSdkVersion": "29",
+    "comment": "android:versionCode='229', android:versionName='2.3.1.13', package='fi.sanomamagazines.lataamo', minSdkVersion='19', targetSdkVersion='29'"
+  },
+  {
+    "userAgent": "lataamo-android/241 Dalvik/2.1.0 (Linux; U; Android 9; Pixel 7 Build/LMY48T)",
+    "lataamoVersion": "2.4.0",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "30",
+    "comment": "android:versionCode='241', android:versionName='2.4.0', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='30'"
+  },
+  {
+    "userAgent": "lataamo-android/243 Dalvik/2.1.0 (Linux; U; Android 10; SM-G350 Build/MMB29M)",
+    "lataamoVersion": "2.4.1",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "31",
+    "comment": "android:versionCode='243', android:versionName='2.4.1', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='31'"
+  },
+  {
+    "userAgent": "lataamo-android/248 Dalvik/2.1.0 (Linux; U; Android 11; GT-I9300 Build/NMF26F)",
+    "lataamoVersion": "2.4.6",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "31",
+    "comment": "android:versionCode='248', android:versionName='2.4.6', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='31'"
+  },
+  {
+    "userAgent": "lataamo-android/253 Dalvik/2.1.0 (Linux; U; Android 12; SM-G900F Build/OPM1.171019.011)",
+    "lataamoVersion": "2.4.11",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "31",
+    "comment": "android:versionCode='253', android:versionName='2.4.11', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='31'"
+  },
+  {
+    "userAgent": "lataamo-android/254 Dalvik/2.1.0 (Linux; U; Android 13; SM-N9005 Build/PQ3A.190801.002)",
+    "lataamoVersion": "2.4.12",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='254', android:versionName='2.4.12', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/255 Dalvik/2.1.0 (Linux; U; Android 14; Nexus 7 Build/QQ3A.200805.001)",
+    "lataamoVersion": "2.4.13",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='255', android:versionName='2.4.13', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/257 Dalvik/2.1.0 (Linux; U; Android 4.2.2; SM-A520F Build/RQ3A.211001.001)",
+    "lataamoVersion": "2.4.15",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='257', android:versionName='2.4.15', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/258 Dalvik/2.1.0 (Linux; U; Android 4.3; Pixel 2 Build/SP1A.210812.016)",
+    "lataamoVersion": "2.4.16",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='258', android:versionName='2.4.16', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/260 Dalvik/2.1.0 (Linux; U; Android 4.4.2; SM-G960F Build/TP1A.221005.002)",
+    "lataamoVersion": "2.4.18",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='260', android:versionName='2.4.18', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  },
+  {
+    "userAgent": "lataamo-android/263 Dalvik/2.1.0 (Linux; U; Android 5.0; SM-G970F Build/UP1A.231005.007)",
+    "lataamoVersion": "2.4.20",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "34",
+    "comment": "android:versionCode='263', android:versionName='2.4.20', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='34'"
+  },
+  {
+    "userAgent": "lataamo-android/116 Dalvik/2.1.0 (Linux; U; Android 5.1.1; Pixel 4 Build/JDQ39)",
+    "lataamoVersion": "1.7.2.3",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "24",
+    "comment": "android:versionCode='116', android:versionName='1.7.2.3', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='24'"
+  },
+  {
+    "userAgent": "lataamo-android/155 Dalvik/2.1.0 (Linux; U; Android 6.0; SM-G980F Build/JSS15J)",
+    "lataamoVersion": "2.0.1.13",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "26",
+    "comment": "android:versionCode='155', android:versionName='2.0.1.13', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='26'"
+  },
+  {
+    "userAgent": "lataamo-android/164 Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G991B Build/KOT49H)",
+    "lataamoVersion": "2.0.1.22",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "27",
+    "comment": "android:versionCode='164', android:versionName='2.0.1.22', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='27'"
+  },
+  {
+    "userAgent": "lataamo-android/177 Dalvik/2.1.0 (Linux; U; Android 7.1.1; Pixel 6 Build/LRX21V)",
+    "lataamoVersion": "2.1.2.3",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "27",
+    "comment": "android:versionCode='177', android:versionName='2.1.2.3', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='27'"
+  },
+  {
+    "userAgent": "lataamo-android/203 Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-S908B Build/LMY48T)",
+    "lataamoVersion": "2.2.4.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='203', android:versionName='2.2.4.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/206 Dalvik/2.1.0 (Linux; U; Android 8.1.0; Pixel 7 Build/MMB29M)",
+    "lataamoVersion": "2.2.6.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='206', android:versionName='2.2.6.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/210 Dalvik/2.1.0 (Linux; U; Android 9; SM-G350 Build/NMF26F)",
+    "lataamoVersion": "2.2.8.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='210', android:versionName='2.2.8.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/212 Dalvik/2.1.0 (Linux; U; Android 10; GT-I9300 Build/OPM1.171019.011)",
+    "lataamoVersion": "2.2.9.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='212', android:versionName='2.2.9.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/216 Dalvik/2.1.0 (Linux; U; Android 11; SM-G900F Build/PQ3A.190801.002)",
+    "lataamoVersion": "2.3.1.0",
+    "minSdkVersion": "17",
+    "targetSdkVersion": "28",
+    "comment": "android:versionCode='216', android:versionName='2.3.1.0', package='fi.sanomamagazines.lataamo', minSdkVersion='17', targetSdkVersion='28'"
+  },
+  {
+    "userAgent": "lataamo-android/225 Dalvik/2.1.0 (Linux; U; Android 12; SM-N9005 Build/QQ3A.200805.001)",
+    "lataamoVersion": "2.3.1.9",
+    "minSdkVersion": "19",
+    "targetSdkVersion": "29",
+    "comment": "android:versionCode='225', android:versionName='2.3.1.9', package='fi.sanomamagazines.lataamo', minSdkVersion='19', targetSdkVersion='29'"
+  },
+  {
+    "userAgent": "lataamo-android/229 Dalvik/2.1.0 (Linux; U; Android 13; Nexus 7 Build/RQ3A.211001.001)",
+    "lataamoVersion": "2.3.1.13",
+    "minSdkVersion": "19",
+    "targetSdkVersion": "29",
+    "comment": "android:versionCode='229', android:versionName='2.3.1.13', package='fi.sanomamagazines.lataamo', minSdkVersion='19', targetSdkVersion='29'"
+  },
+  {
+    "userAgent": "lataamo-android/241 Dalvik/2.1.0 (Linux; U; Android 14; SM-A520F Build/SP1A.210812.016)",
+    "lataamoVersion": "2.4.0",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "30",
+    "comment": "android:versionCode='241', android:versionName='2.4.0', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='30'"
+  },
+  {
+    "userAgent": "lataamo-android/243 Dalvik/2.1.0 (Linux; U; Android 4.2.2; Pixel 2 Build/TP1A.221005.002)",
+    "lataamoVersion": "2.4.1",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "31",
+    "comment": "android:versionCode='243', android:versionName='2.4.1', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='31'"
+  },
+  {
+    "userAgent": "lataamo-android/248 Dalvik/2.1.0 (Linux; U; Android 4.3; SM-G960F Build/UP1A.231005.007)",
+    "lataamoVersion": "2.4.6",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "31",
+    "comment": "android:versionCode='248', android:versionName='2.4.6', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='31'"
+  },
+  {
+    "userAgent": "lataamo-android/253 Dalvik/2.1.0 (Linux; U; Android 4.4.2; SM-G970F Build/JDQ39)",
+    "lataamoVersion": "2.4.11",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "31",
+    "comment": "android:versionCode='253', android:versionName='2.4.11', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='31'"
+  },
+  {
+    "userAgent": "lataamo-android/254 Dalvik/2.1.0 (Linux; U; Android 5.0; Pixel 4 Build/JSS15J)",
+    "lataamoVersion": "2.4.12",
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33",
+    "comment": "android:versionCode='254', android:versionName='2.4.12', package='fi.sanomamagazines.lataamo', minSdkVersion='21', targetSdkVersion='33'"
+  }
+]
